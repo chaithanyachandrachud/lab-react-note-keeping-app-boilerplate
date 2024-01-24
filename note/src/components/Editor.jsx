@@ -22,7 +22,7 @@ class Editor extends React.Component {
         <div className="input">
           <h3>Input</h3>
           <textarea
-            className="input-text"
+            className="text"
             onChange={this.handleChange}
             defaultValue={this.state.value}
           />

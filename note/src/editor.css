@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@1,300&family=Josefin+Sans:wght@100&family=Libre+Baskerville:ital@1&family=Maven+Pro:wght@600&family=Open+Sans:wght@300&family=PT+Sans:ital@0;1&family=Permanent+Marker&family=Preahvihear&family=Prompt:wght@300&family=Rubik+Doodle+Triangles&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Maven Pro', sans-serif;
+}
+.container{
+    display: flex;
+    height: 100vh;
+    background-color: rgb(56, 56, 197);
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.input{
+    width: 40vw;
+    margin-left: 10px;
+    margin-top: 20px;
+    height: 80vh;
+    font-family: 'Maven Pro', sans-serif;
+}
+.input-text{
+    color: white;
+    height: 55vh;
+    width: 40vw;
+    background-color: rgb(56, 56, 197);
+    margin-top: 20px;
+    font-family: 'Maven Pro', sans-serif;
+
+
+}
+
+.output-text{
+    border: 1px solid blue;
+    width: 40vw;
+    height: 70vh;
+    background-color: rgb(61, 60, 60);
+    color:white;
+    margin-top: 15px;
+    font-family: 'Maven Pro', sans-serif;
+}
+.output{
+    margin-left: 40px;
+    margin-top: 20px;
+    font-family: 'Maven Pro', sans-serif;
+
+}
